@@ -1,0 +1,1 @@
+select * from classificacao_mundial where regiao = 'oriente medio' order by pontuacao desc

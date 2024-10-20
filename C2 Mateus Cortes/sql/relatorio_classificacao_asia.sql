@@ -1,0 +1,1 @@
+select * from classificacao_mundial where regiao = 'asia' order by pontuacao desc

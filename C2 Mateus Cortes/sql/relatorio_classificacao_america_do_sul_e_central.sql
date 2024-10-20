@@ -1,0 +1,1 @@
+select * from classificacao_mundial where (regiao = 'america do sul' or regiao = 'america central') order by pontuacao desc

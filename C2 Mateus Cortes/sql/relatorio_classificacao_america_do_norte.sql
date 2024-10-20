@@ -1,0 +1,1 @@
+select * from classificacao_mundial where regiao = 'america do norte' order by pontuacao desc

@@ -1,0 +1,1 @@
+select * from classificacao_mundial where regiao = 'europa' order by pontuacao desc

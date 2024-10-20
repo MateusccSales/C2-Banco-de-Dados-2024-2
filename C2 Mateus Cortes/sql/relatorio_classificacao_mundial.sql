@@ -1,0 +1,1 @@
+select * from classificacao_mundial order by pontuacao desc
